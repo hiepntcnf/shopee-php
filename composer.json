@@ -1,18 +1,18 @@
 {
-  "name": "minchao/shopee-php",
+  "name": "cnf/shopee-php",
   "description": "Shopee Partner API PHP SDK",
   "type": "library",
   "keywords": [
     "shopee",
     "openapi"
   ],
-  "homepage": "https://github.com/minchao/shopee-php",
+  "homepage": "https://github.com/hiepntcnf/shopee-php",
   "license": "BSD-3-Clause",
   "support": {
-    "issues": "https://github.com/minchao/shopee-php/issues"
+    "issues": "https://github.com/hiepntcnf/shopee-php/issues"
   },
   "require": {
-    "php": ">=7.1",
+    "php": "^7.0",
     "guzzlehttp/guzzle": "^6.3"
   },
   "require-dev": {
